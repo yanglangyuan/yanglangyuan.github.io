@@ -18,17 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently a MSc student majoring in Electronic Science and Technology at Southern University of Science and Technology(SUSTech, China) under the supervison of [Prof. Kevin Yiming Rong](https://mee.sustech.edu.cn/2016/node1_0809/130.html). I am a detail oriented MSc student interested in intelligent manufacturing system, ​individual product customization, additive manufacturing(3D printing), and digital twin. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
+I am currently a M.Sc. student majoring in Electronic Science and Technology at Southern University of Science and Technology(SUSTech, China) under the supervison of [Prof. Kevin Yiming Rong](https://mee.sustech.edu.cn/2016/node1_0809/130.html). I am a detail oriented MSc student interested in intelligent manufacturing system, ​individual product customization, additive manufacturing(3D printing), and digital twin. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
 
 I received my Bachelor’s degree from SUSTech, in 2019 with my major in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://mee.sustech.edu.cn/2016/node1_0809/131.html).
 
-It takes me for more than 2 years as a full-time staff in SUSTech after I graduated in the Summer of 2019. Fortunately, I returned back to continue my study after finishing the job in August of 2021, still at SUSTech but a new beginning of my life.
+It takes me for more than 2 years as a full-time staff in SUSTech after I graduated in the Summer of 2019. Fortunately, I returned back to continue my M.Sc. study after finishing the job in August of 2021, still at SUSTech but a new beginning of my life.
 
 Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities.
 
 # 🔥 News
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
-- *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his MSc study back at SUSTech. 
+- *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech. 
 
 # 📝 Publications & Patents
 
@@ -50,7 +50,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - **Yanglang Yuan**, Jiahui Zhang, Xiaoyu Zhang, Fan Zhou, Yajun Wang, Hui Li, Haijiang Wang. (2019) “Fuel cell bipolar plate and fuel cell”. CN (Patent) CN210429963U, filed July 25,2019.
 
 # 📖 Educations
-- *2021.08 - 2023.07 (expected)*, MSc in Electronic Science and Technology，Southern University of Science and Technology(Shenzhen，China).
+- *2021.08 - 2023.07 (expected)*, M.Sc. in Electronic Science and Technology，Southern University of Science and Technology(Shenzhen，China).
 - *2015.09 - 2019.06*, B.E. in Mechanical Engineering, Southern University of Science and Technology(Shenzhen，China). 
 
 # 👨‍🏫 Teachings
