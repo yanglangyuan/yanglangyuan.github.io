@@ -44,6 +44,9 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+[**Publictions**]
+- Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong.(2022), Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond, Robotics and Computer-Integrated Manufacturing,... (Contribution: Adaptive control system for motion synchronization)
+
 [**Patents**]
 
 - **Yanglang Yuan**, Jiahui Zhang, Xiaoyu Zhang, Fan Zhou, Yajun Wang, Hui Li, Haijiang Wang. (2019) “Fuel cell bipolar plate and fuel cell”. CN (Patent) CN110459780A, filed, Nov.15,2019.
