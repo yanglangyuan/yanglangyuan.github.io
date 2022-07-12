@@ -27,6 +27,7 @@ It takes me for more than 2 years as a full-time staff in SUSTech after I gradua
 Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities.
 
 # 🔥 News
+- *2022.07*: &nbsp;🎉🎉 Yanglang Yuan as a co-author submited a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation".
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
 - *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech. 
 
