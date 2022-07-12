@@ -47,7 +47,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 [**Publictions**]
 
-- Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang (2022), Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond, Robotics and Computer-Integrated Manufacturing,... (Contribution: Adaptive control system for motion synchronization)
+- Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang (2022), RHYTHMS: Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond, Robotics and Computer-Integrated Manufacturing,... (Contribution: Adaptive control system for motion synchronization)
 -->
 
 [**Patents**]
