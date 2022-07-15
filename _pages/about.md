@@ -31,7 +31,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
 - *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech. 
 
-# 📝 Publications & Patents
+# 📝 Publications
 
 <!--
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
