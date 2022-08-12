@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently a M.Sc. student majoring in Electronic Science and Technology at Southern University of Science and Technology(SUSTech, China) under the supervison of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I am a detail oriented M.Sc. student interested in **Intelligent Manufacturing Systems**, **​Individual Product Customization**, **Customer-to-Manufacturer(C2M) Model**, **Additive Manufacturing(3D printing)**, and **Digital Twin**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
+I am currently a M.Sc. student majoring in Electronic Science and Technology at Southern University of Science and Technology(SUSTech, China) under the supervison of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I am a detail oriented M.Sc. student interested in **Intelligent Manufacturing Systems**, **​Individual Product Customization**, **Customer-to-Manufacturer(C2M) Model**,**Cloud Compution**, and **Digital Twin**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
 
 I received my Bachelor’s degree from SUSTech, in 2019 with my major in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
@@ -27,6 +27,7 @@ It takes me for more than 2 years as a full-time staff in SUSTech after I gradua
 Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities.
 
 # 🔥 News
+- *2022.08*: &nbsp;🎉🎉 Yanglang Yuan starts preparing a journal review about the status and perspective of "Customer-to-Manufacturer (C2M)".
 - *2022.07*: &nbsp;🎉🎉 Yanglang Yuan as a co-author submited a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation".
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
 - *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech. 
