@@ -6,5 +6,12 @@
         "**/*.txt",
         "**/about.md"
     ],
-    "grammarly.startTextCheckInPausedState": true
+    "grammarly.startTextCheckInPausedState": true,
+    "grammarly.selectors": [
+        {
+            "language": "latex",
+            "scheme": "file",
+            "pattern": "docs/CV.tex"
+        }
+    ]
 }
