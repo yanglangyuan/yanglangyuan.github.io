@@ -1,0 +1,10 @@
+{
+    "grammarly.config.documentDomain": "academic",
+    "grammarly.files.include": [
+        "**/readme.md",
+        "**/README.md",
+        "**/*.txt",
+        "**/about.md"
+    ],
+    "grammarly.startTextCheckInPausedState": true
+}
