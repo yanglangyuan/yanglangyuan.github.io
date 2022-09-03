@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently an M.Sc. student majoring in Electronic Science and Technology at the Southern University of Science and Technology(SUSTech, China) under the supervision of [Prof.](https://faculty.sustech.edu.cn/rongym/en/) Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I am a detail-oriented M.Sc. student interested in **Intelligent Manufacturing Systems**, **​Individual Product Customization**, **Customer-to-Manufacturer(C2M) Model**, **Cloud Compution**, and **Digital Twin**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
+I am currently an M.Sc. student majoring in Electronic Science and Technology at the Southern University of Science and Technology(SUSTech, China) under the supervision of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I am a detail-oriented M.Sc. student interested in **Intelligent Manufacturing Systems**, **​Individual Product Customization**, **Customer-to-Manufacturer(C2M) Model**, **Cloud Compution**, and **Digital Twin**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
 
 I received my Bachelor’s degree from SUSTech, in 2019 with a major in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
@@ -46,7 +46,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-[**Publictions**]
+[**Publications**]
 
 - Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang. (2022). RHYTHMS: Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond. SSRN Electronic Journal, [DOI: 10.2139/ssrn.4153658.](http://dx.doi.org/10.2139/ssrn.4153658)
 
