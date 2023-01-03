@@ -27,7 +27,7 @@ It takes me more than 2 years as a full-time staff in SUSTech after I graduated 
 Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities.
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 Yanglang Yuan starts preparing a journal review about the status and perspective of "Customer-to-Manufacturer (C2M)".
+- *2023.01*: &nbsp;🎉🎉 Yanglang Yuan submitted a journal review about the status and perspective of "Customer-to-Manufacturer (C2M)".
 - *2022.07*: &nbsp;🎉🎉 Yanglang Yuan as a co-author submitted a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation".
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
 - *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech. 
@@ -49,6 +49,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 [**Publications**]
 
 - Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang. (2022). RHYTHMS: Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond. SSRN Electronic Journal, [DOI: 10.2139/ssrn.4153658.](http://dx.doi.org/10.2139/ssrn.4153658)
+- **Yanglang Yuan**, Daqiang Guo, Shiquan Ling, Jingke Wang, Guyue Zhou, Yiming Rong, Yongsheng Ma. (2023). “A framework for Customer-to-Manufacturer~(C2M)~in the context of Industry 5.0"} \textit{(Submitted to journal)}
 
 [**Patents**]
 
