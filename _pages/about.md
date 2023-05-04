@@ -22,15 +22,16 @@ I am currently an M.Sc. student majoring in Electronic Science and Technology at
 
 I received my Bachelor’s degree from SUSTech, in 2019 with a major in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
-It takes me more than 2 years as a full-time staff in SUSTech after I graduated in the Summer of 2019. Fortunately, I returned back to continue my M.Sc. study after finishing the job in August of 2021, still at SUSTech but a new beginning in my life.
+It takes me more than 2 years as a full-time staff in SUSTech after I graduated in the Summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech but a new beginning in my life.
 
 Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities.
 
 # 🔥 News
+- *2023.04.28-2023.05.01*: &nbsp;🎉🎉 Yanglang Yuan attended the NSFC-RGC Conference 2023 in Hong Kong (Theme: Towards Human-Machine Symbiotic Industrial Transformation), and gave an oral presentation.
 - *2023.01*: &nbsp;🎉🎉 Yanglang Yuan submitted a journal review about the status and perspective of "Customer-to-Manufacturer (C2M)".
 - *2022.07*: &nbsp;🎉🎉 Yanglang Yuan as a co-author submitted a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation".
-- *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
-- *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech. 
+<!-- - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
+- *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech.  -->
 
 # 📝 Publications
 
@@ -50,6 +51,10 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 - Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang. (2022). RHYTHMS: Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond. SSRN Electronic Journal, [DOI: 10.2139/ssrn.4153658.](http://dx.doi.org/10.2139/ssrn.4153658)
 - **Yanglang Yuan**, Daqiang Guo, Shiquan Ling, Jingke Wang, Guyue Zhou, Yiming Rong, Yongsheng Ma. (2023). “A framework for Customer-to-Manufacturer (C2M) in the context of Industry 5.0" *(Submitted to journal)*
+
+[**Conference**]
+
+- **Yanglang Yuan**, Jingke Wang, Kang Tang, Guyue Zhou, Yiming Rong, Yongsheng Ma. (2023).  “A framework and implementation of Customer-to-Manufacturer (C2M) paradigm in e-Commerce” (NSFC-RGC Conference 2023, Hong Kong)
 
 [**Patents**]
 
