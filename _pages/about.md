@@ -53,7 +53,7 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 -->
 [**Publications**]
 
-- Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang. (2022). RHYTHMS: Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond. SSRN Electronic Journal, [DOI: 10.2139/ssrn.4153658.](http://dx.doi.org/10.2139/ssrn.4153658)
+- Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang. (2022). RHYTHMS: Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond. Robotics and Computer-Integrated Manufacturing, [DOI: 10.1016/j.rcim.2023.102709](https://doi.org/10.1016/j.rcim.2023.102709)
 
 - **Yanglang Yuan**, Daqiang Guo, Shiquan Ling, Jingke Wang, Guyue Zhou, Yiming Rong, Yongsheng Ma. (2023). “A framework for Customer-to-Manufacturer (C2M) in the context of Industry 5.0" *(Under Review)*
 
