@@ -18,11 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently an M.Sc. student majoring in Electronic Science and Technology at the Southern University of Science and Technology(SUSTech, China) under the supervision of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). I am a detail-oriented M.Sc. student interested in **Intelligent Manufacturing Systems**, **​Individual Product Customization**, **Customer-to-Manufacturer(C2M) Model**, **Cloud Computing**, and **Digital Twin**. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
+I am currently a PhD student majoring in Mechanical Engineering at Aalto University. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
 
-I received my Bachelor’s degree from SUSTech, in 2019 with a major in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
+I received my Master degree of  Electronic Science and Technology from Southern University of Science and Technology(SUSTech, China) in June 2024, under the supervision of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). Upon the years of my master study, I was interested in ​Individual Product Customization, Customer-to-Manufacturer(C2M) Model and Digital-twin.
+
+Also, I received my Bachelor’s degree at SUSTech, in 2019 with a major in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
 It takes me more than 2 years as a full-time staff in SUSTech after I graduated in the Summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech but a new beginning in my life.
+
+Now, at Aalto University, new stories are coming.
 
 Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities.
 
@@ -69,7 +73,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - **Yanglang Yuan**, Jiahui Zhang, Xiaoyu Zhang, Fan Zhou, Yajun Wang, Hui Li, Haijiang Wang. (2019) “Fuel cell bipolar plate and fuel cell”. CN (Patent) CN210429963U, filed July 25, 2019.
 
 # 📖 Educations
-- *2021.08 - 2024.06 (expected)*, M.Sc. in Electronic Science and Technology，Southern University of Science and Technology(Shenzhen，China).
+- *2024.07 - 2028.07 (expected)*, PhD in Mechanical Engineering，Aalto University(Helsinki, Finland).
+- *2021.08 - 2024.06*, M.Sc. in Electronic Science and Technology，Southern University of Science and Technology(Shenzhen，China).
 - *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(Shenzhen，China). 
 
 # 👨‍🏫 Teachings
