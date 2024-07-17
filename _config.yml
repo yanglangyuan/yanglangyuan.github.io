@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanglang Yuan"
-description              : "M.Sc. student in Electronic Science and Technology @ SUSTech"
+description              : "PhD student in Mechanical Engineering @ Aalto"
 url                      : https://yuanyl.eu.org
 repository               : "yanglangyuan/yanglangyuan.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,11 +27,11 @@ author:
                       袁杨浪"
   avatar           : "images/android-chrome-512x512.png"
 #  bio              : "Southern University of Science and Technology @ SUSTech"
-  location         : "Shenzhen, China"
+  location         : "Helsinki, Finland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VYpyo8IAAAAJ&hl=en&num=20&newwindow=1&authuser=1"
-  email            : "11930509@mail.sustech.edu.cn"
+  email            : "yuanyanglang@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yanglang-Yuan"
   uri              :
   bitbucket        :
