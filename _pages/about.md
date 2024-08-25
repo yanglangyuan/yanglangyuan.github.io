@@ -38,8 +38,6 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 <!--
 - *2023.01*: &nbsp;🎉🎉 Yanglang Yuan submitted a journal review about the status and perspective of "Customer-to-Manufacturer (C2M)".
 - *2022.07*: &nbsp;🎉🎉 Yanglang Yuan as a co-author submitted a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation".
-- -->
-<!--
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
 - *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech.  
 - -->
