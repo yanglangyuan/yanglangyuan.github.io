@@ -35,12 +35,13 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 - *2024.06*: &nbsp;🎉🎉 Yanglang Yuan graduated with a Master's degree from SUSTech.
 - *2023.06*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal to explore a novel approach for real-time interactive garment design and its optimization in the context of C2M.
 - *2023.04.28-2023.05.01*: &nbsp;🎉🎉 Yanglang Yuan attended the NSFC-RGC Conference 2023 in Hong Kong (Theme: Towards Human-Machine Symbiotic Industrial Transformation), and gave an oral presentation.
+
 <!--
 - *2023.01*: &nbsp;🎉🎉 Yanglang Yuan submitted a journal review about the status and perspective of "Customer-to-Manufacturer (C2M)".
 - *2022.07*: &nbsp;🎉🎉 Yanglang Yuan as a co-author submitted a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation".
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
-- *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech.  
--->
+- *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech.  -->
+
 
 # 📝 Publications
 
