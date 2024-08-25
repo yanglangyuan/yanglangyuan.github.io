@@ -95,6 +95,3 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=n&d=5yN7xgh7YXtcmpBGBP7HvpnHkybRxO1Y2-2E8nI4Pg8'></script>
-
