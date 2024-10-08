@@ -80,6 +80,7 @@ Please have a look at my [CV](./docs/CV.pdf) here for more about my research pro
 - *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(Shenzhen， China). 
 
 # 👨‍🏫 Teachings
+- *2024.09 - 2024.12*, Teaching Assistant, "Computational Engineering Project, Lecture"
 - *2022.02 - 2022.06*, Teaching Assistant, "Advanced Manufacturing Systems".
 - *2021.09 - 2022.01*, Teaching Assistant, "Awareness Practices of Manufacturing Engineering".
 
