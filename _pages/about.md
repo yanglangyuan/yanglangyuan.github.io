@@ -18,27 +18,27 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently a PhD student majoring in Mechanical Engineering at Aalto University. I love to collaborate and work with different people on multi-disciplinary projects. And from extensive course work, I have built up a solid background in embedded systems and dynamic modeling. ​
+I am currently a PhD student majoring in Mechanical Engineering at the School of Engineering, Aalto University(Helsinki, Finland). I love to collaborate and work with different people on multi-disciplinary projects. And from extensive coursework, I have built up a solid background in embedded systems and dynamic modeling. ​
 
-I received my Master's degree of Electronic Science and Technology from Southern University of Science and Technology(SUSTech, China) in June 2024, under the supervision of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). Upon the years of my master study, I was interested in ​Individual Product Customization, Customer-to-Manufacturer(C2M) Model and Digital-twin.
+I received my Master's degree in Electronic Science and Technology from the Southern University of Science and Technology(SUSTech, China) in June 2024, under the supervision of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). During the years of my master's study, I was interested in Individual Product Customization, Customer-to-Manufacturer(C2M) Models, and Digital-twin.
 
-Also, I received my Bachelor’s degree at SUSTech, in 2019 with a major in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
+I also received my bachelor’s degree at SUSTech in 2019, majoring in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
-It takes me more than 2 years as a full-time staff in SUSTech after I graduated in the Summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech but a new beginning in my life.
+It took me over two years as a full-time staff member at SUSTech after I graduated in the summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech, but a new beginning in my life.
 
 Now, at Aalto University, new stories are coming.
 
-Please find my [CV](./docs/CV.pdf) here for more about my research projects and background. And please feel free to contact me for any questions or opportunities.
+Please have a look at my [CV](./docs/CV.pdf) here for more about my research projects and background. Please feel free to contact me for any questions or opportunities.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Yanglang Yuan started his doctroal research at Aalto University, in Finland.
+- *2024.07*: &nbsp;🎉🎉 Yanglang Yuan started his doctoral research at Aalto University in Finland.
 - *2024.06*: &nbsp;🎉🎉 Yanglang Yuan graduated with a Master's degree from SUSTech.
 - *2023.06*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal to explore a novel approach for real-time interactive garment design and its optimization in the context of C2M.
-- *2023.04.28-2023.05.01*: &nbsp;🎉🎉 Yanglang Yuan attended the NSFC-RGC Conference 2023 in Hong Kong (Theme: Towards Human-Machine Symbiotic Industrial Transformation), and gave an oral presentation.
+- *2023.04.28-2023.05.01*: &nbsp;🎉🎉 Yanglang Yuan attended the NSFC-RGC Conference 2023 in Hong Kong (Theme: Towards Human-Machine Symbiotic Industrial Transformation) and gave an oral presentation.
 
 <!--
 - *2023.01*: &nbsp;🎉🎉 Yanglang Yuan submitted a journal review about the status and perspective of "Customer-to-Manufacturer (C2M)".
-- *2022.07*: &nbsp;🎉🎉 Yanglang Yuan as a co-author submitted a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation".
+- *2022.07*: &nbsp;🎉🎉 Yanglang Yuan, as a co-author, submitted a journal paper about "Human-machine Synchronization for Proactive Ergonomic Risks Mitigation."
 - *2022.04*: &nbsp;🎉🎉 Yanglang Yuan started his research proposal about Intelligent Manufacturing.
 - *2021.08*: &nbsp;🎉🎉 Yanglang Yuan started his M.Sc. study back at SUSTech.  -->
 
@@ -76,8 +76,8 @@ Please find my [CV](./docs/CV.pdf) here for more about my research projects and 
 
 # 📖 Educations
 - *2024.07 - present*, PhD in Mechanical Engineering，Aalto University(Helsinki, Finland).
-- *2021.08 - 2024.06*, M.Sc. in Electronic Science and Technology，Southern University of Science and Technology(Shenzhen，China).
-- *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(Shenzhen，China). 
+- *2021.08 - 2024.06*, M.Sc. in Electronic Science and Technology， Southern University of Science and Technology(Shenzhen， China).
+- *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(Shenzhen， China). 
 
 # 👨‍🏫 Teachings
 - *2022.02 - 2022.06*, Teaching Assistant, "Advanced Manufacturing Systems".
