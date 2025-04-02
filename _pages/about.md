@@ -26,7 +26,7 @@ I also received my bachelor’s degree at SUSTech in 2019, majoring in Mechanica
 
 It took me over two years as a full-time staff member at SUSTech after I graduated in the summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech, but a new beginning in my life.
 
-Now, at Aalto University, new stories are coming. I'm exploring Machine Learning Tools to predict metallic materials' behavior under different loading cases.
+Now, at Aalto University, new stories are coming. I'm exploring Machine Learning Tools to predict metallic materials' behavior under different loading cases in the Group of [Materials to Products](https://www.aalto.fi/en/department-of-mechanical-engineering/materials-to-products).
 
 Please have a look at my [CV](./docs/CV.pdf) here for more about my research projects and background. Please feel free to contact me for any questions or opportunities.
 
