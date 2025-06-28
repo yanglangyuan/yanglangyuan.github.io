@@ -28,7 +28,7 @@ It took me over two years as a full-time staff member at SUSTech after I graduat
 
 After graduating from my master's program at SUSTech, I had a one-year wonderful experience of doctoral research at Aalto University from July 2024 to June 2025. 
 
-Now, at RWTH-Aachen University, new stories are coming. I'm exploring Machine Learning Tools to predict metallic materials' behavior under different loading cases in the [Chair of Forming Technologies and Institute of Metal Forming](https://www.ibf.rwth-aachen.de/cms/~owzh/IBF/).
+Now, at RWTH-Aachen University, new stories are coming. I'm exploring Machine Learning Tools to predict metallic materials' behavior under different loading cases in the [Chair of Forming Technologies and Institute of Metal Forming](https://www.ibf.rwth-aachen.de/cms/~owzh/ibf/?lidx=1).
 
 Please have a look at my [CV](./docs/CV.pdf) here for more about my research projects and background. Please feel free to contact me for any questions or opportunities.
 
