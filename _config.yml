@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanglang Yuan"
-description              : "PhD student in Mechanical Engineering @ Aalto"
+description              : "PhD student in Mechanical Engineering @ RWTH-Aachen"
 url                      : https://yuanyl.eu.org
 repository               : "yanglangyuan/yanglangyuan.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,11 +27,11 @@ author:
                       袁杨浪"
   avatar           : "images/android-chrome-512x512.png"
 #  bio              : "Southern University of Science and Technology @ SUSTech"
-  location         : "Helsinki, Finland"
+  location         : "Aachen, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VYpyo8IAAAAJ&hl=en&num=20&newwindow=1&authuser=1"
-  email            : "yuanyanglang@gmail.com"
+  email            : "yanglang.yuan@ibf.rwth-aachen.de"
   researchgate     : "https://www.researchgate.net/profile/Yanglang-Yuan"
   uri              :
   bitbucket        :
