@@ -18,19 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently a PhD student majoring in Mechanical Engineering at the School of Engineering, Aalto University(Helsinki, Finland). I love to collaborate and work with different people on multi-disciplinary projects. And from extensive coursework, I have built up a solid background in embedded systems and dynamic modeling. ​
+I am currently a PhD student majoring in Mechanical Engineering at the Chair of Forming Technologies and Institute of Metal Forming, RWTH-Aachen University(Aachen, Germany). I love to collaborate and work with different people on multi-disciplinary projects. And from extensive coursework, I have built up a solid background in embedded systems and dynamic modeling. ​
 
 I received my Master's degree in Electronic Science and Technology from the Southern University of Science and Technology(SUSTech, China) in June 2024, under the supervision of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). During the years of my master's study, I was interested in Individual Product Customization, Customer-to-Manufacturer(C2M) Models, and Digital-twin.
 
-I also received my bachelor’s degree at SUSTech in 2019, majoring in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
+I also received my bachelor’s degree at SUSTech in 2019, majoring in Mechanical Engineering. During this period, I worked on the fuel cell system design and control for drones in the Shenzhen Key Laboratory of Hydrogen Energy with [Prof. Haijiang Wang](https://faculty.sustech.edu.cn/wanghj/en/).
 
-It took me over two years as a full-time staff member at SUSTech after I graduated in the summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech, but a new beginning in my life.
+It took me over two years as a full-time staff member at SUSTech after I graduated in the summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech, but with a new beginning in my life.
 
-Now, at Aalto University, new stories are coming. I'm exploring Machine Learning Tools to predict metallic materials' behavior under different loading cases in the Group of [Materials to Products](https://www.aalto.fi/en/department-of-mechanical-engineering/materials-to-products).
+After graduating from my master's program at SUSTech, I had a one-year wonderful experience of doctoral research at Aalto University from July 2024 to June 2025. 
+
+Now, at RWTH-Aachen University, new stories are coming. I'm exploring Machine Learning Tools to predict metallic materials' behavior under different loading cases in the [Chair of Forming Technologies and Institute of Metal Forming](https://www.ibf.rwth-aachen.de/cms/~owzh/IBF/).
 
 Please have a look at my [CV](./docs/CV.pdf) here for more about my research projects and background. Please feel free to contact me for any questions or opportunities.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Yanglang Yuan transferred his doctoral research to RWTH-Aachen University in Germany.
 - *2024.07*: &nbsp;🎉🎉 Yanglang Yuan started his doctoral research at Aalto University in Finland.
 - *2024.06*: &nbsp;🎉🎉 Yanglang Yuan graduated with a Master's degree from SUSTech.
 
