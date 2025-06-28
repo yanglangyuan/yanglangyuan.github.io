@@ -26,7 +26,7 @@ I also received my bachelor’s degree at SUSTech in 2019, majoring in Mechanica
 
 It took me over two years as a full-time staff member at SUSTech after I graduated in the summer of 2019. Fortunately, I returned to continue my M.Sc. study after finishing the job in August 2021, still at SUSTech, but with a new beginning in my life.
 
-After graduating from my master's program at SUSTech, I had a one-year wonderful experience of doctoral research at Aalto University from July 2024 to June 2025. 
+After graduating from my master's program at SUSTech, I had a one-year wonderful experience of doctoral research at Aalto University(Helsinki, Finland) from July 2024 to June 2025. 
 
 Now, at RWTH-Aachen University, new stories are coming. I'm exploring Machine Learning Tools to predict metallic materials' behavior under different loading cases in the [Chair of Forming Technologies and Institute of Metal Forming](https://www.ibf.rwth-aachen.de/cms/~owzh/ibf/?lidx=1).
 
