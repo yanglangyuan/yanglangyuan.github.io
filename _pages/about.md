@@ -65,7 +65,7 @@ Please have a look at my [CV](./docs/CV.pdf) here for more about my research pro
 
 - **Yanglang Yuan**, Jingke Wang, Guyue Zhou, Yiming Rong, Yongsheng Ma. (2024). “A framework and implementation of the Customer-to-Manufacturer (C2M) paradigm". Advanced Manufacturing, [DOI: 10.55092/am20240004](https://doi.org/10.55092/am20240004)
   
-- J Wang, **Y Yuan**, Y Ma. "Research on Intelligent Fitting Based on Parametric Human Modeling and 3D Garment Simulation" (2024 5th International Conference on Big Data, Artificial Intelligence and Internet of Things (ICBAIE 2024), Shenzhen, China)[DOI: 10.1109/ICBAIE63306.2024.11117016](https://ieeexplore.ieee.org/abstract/document/11117016)
+- J Wang, **Y Yuan**, Y Ma. "Research on Intelligent Fitting Based on Parametric Human Modeling and 3D Garment Simulation" (2024 5th International Conference on Big Data, Artificial Intelligence and Internet of Things (ICBAIE 2024), China)[DOI: 10.1109/ICBAIE63306.2024.11117016](https://ieeexplore.ieee.org/abstract/document/11117016)
 
 - Shiquan Ling, **Yanglang Yuan**, Danqi Yan, Yuquan Leng, Yiming Rong, George Q. Huang. (2022). RHYTHMS: Real-time Data-driven Human-machine Synchronization for Proactive Ergonomic Risks Mitigation in the Context of Industry 4.0 and Beyond. Robotics and Computer-Integrated Manufacturing, [DOI: 10.1016/j.rcim.2023.102709](https://doi.org/10.1016/j.rcim.2023.102709)
 
