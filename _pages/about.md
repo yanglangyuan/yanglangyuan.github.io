@@ -88,8 +88,8 @@ Please have a look at my [CV](./docs/CV.pdf) here for more about my research pro
 - **Yanglang Yuan**, Jiahui Zhang, Xiaoyu Zhang, Fan Zhou, Yajun Wang, Hui Li, Haijiang Wang. (2019) “Fuel cell bipolar plate and fuel cell”. CN (Patent) CN210429963U, filed July 25, 2019.
 
 # 📖 Educations
-- *2025.07 - present*, PhD in Mechanical Engineering，RWTH-Aachen University(Aachen, Germany).
-- *2024.07 - 2025.06*, PhD in Mechanical Engineering，Aalto University(Helsinki, Finland).
+- *2025.07 - present*, PhD in Material Science，RWTH-Aachen University(Aachen, Germany).
+- *2024.07 - 2025.06*, PhD in Energy Engineering，Aalto University(Helsinki, Finland).
 - *2021.08 - 2024.06*, M.Sc. in Electronic Science and Technology， Southern University of Science and Technology(Shenzhen， China).
 - *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(Shenzhen， China). 
 
