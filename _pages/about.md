@@ -77,8 +77,10 @@ Please have a look at my [CV](./docs/CV.pdf) here for more about my research pro
 
 [**Conference**]
 
-- **Yanglang Yuan**, Jingke Wang, Kang Tang, Guyue Zhou, Yiming Rong, Yongsheng Ma. (2023).  “A framework and implementation of Customer-to-Manufacturer (C2M) paradigm in e-Commerce” (NSFC-RGC Conference 2023, Hong Kong)
+- **Yanglang Yuan**, Rongfei Juan, Junhe Lian. (2025). “A coupled Graph Transformer and Gated Recurrent Unit modeling approach for high-throughput crystal plasticity simulation
+” (COMPLAS 2025, Barcelona, Spain)
 - J Wang, **Y Yuan**, Y Ma. "Research on Intelligent Fitting Based on Parametric Human Modeling and 3D Garment Simulation" (2024 5th International Conference on Big Data, Artificial Intelligence and Internet of Things (ICBAIE 2024), Shenzhen, China)
+- **Yanglang Yuan**, Jingke Wang, Kang Tang, Guyue Zhou, Yiming Rong, Yongsheng Ma. (2023).  “A framework and implementation of Customer-to-Manufacturer (C2M) paradigm in e-Commerce” (NSFC-RGC Conference 2023, Hong Kong)
 
 [**Patents**]
 
