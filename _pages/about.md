@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my website!
 
-I am currently a PhD student majoring in Mechanical Engineering at RWTH-Aachen University(Aachen, Germany). I love to collaborate and work with different people on multi-disciplinary projects. And from extensive coursework, I have built up a solid background in embedded systems and dynamic modeling. ​
+I am currently a PhD student majoring in Materials Science at RWTH-Aachen University(Aachen, Germany). I love to collaborate and work with different people on multi-disciplinary projects. And from extensive coursework, I have built up a solid background in embedded systems and dynamic modeling. ​
 
 I received my Master's degree in Electronic Science and Technology from the Southern University of Science and Technology(SUSTech, China) in June 2024, under the supervision of [Prof. Yiming (Kevin) Rong](https://faculty.sustech.edu.cn/rongym/en/) and [Prof. Yongsheng Ma](https://faculty.sustech.edu.cn/mays/en/). During the years of my master's study, I was interested in Individual Product Customization, Customer-to-Manufacturer(C2M) Models, and Digital-twin.
 
@@ -88,7 +88,7 @@ Please have a look at my [CV](./docs/CV.pdf) here for more about my research pro
 - **Yanglang Yuan**, Jiahui Zhang, Xiaoyu Zhang, Fan Zhou, Yajun Wang, Hui Li, Haijiang Wang. (2019) “Fuel cell bipolar plate and fuel cell”. CN (Patent) CN210429963U, filed July 25, 2019.
 
 # 📖 Educations
-- *2025.07 - present*, PhD in Material Science，RWTH-Aachen University(Aachen, Germany).
+- *2025.07 - present*, PhD in Materials Science，RWTH-Aachen University(Aachen, Germany).
 - *2024.07 - 2025.06*, PhD in Energy Engineering，Aalto University(Helsinki, Finland).
 - *2021.08 - 2024.06*, M.Sc. in Electronic Science and Technology， Southern University of Science and Technology(Shenzhen， China).
 - *2015.09 - 2019.06*, B.Eng. in Mechanical Engineering, Southern University of Science and Technology(Shenzhen， China). 
